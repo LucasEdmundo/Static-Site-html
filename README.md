@@ -4,7 +4,7 @@ Este repositório contém um exemplo básico de um site estático desenvolvido a
 
 ## Introdução
 
-O objetivo deste projeto é fornecer um exemplo simples de um site estático criado com tecnologias básicas da web, sem o uso de frameworks ou bibliotecas adicionais. Ele serve como um ponto de partida para iniciantes em desenvolvimento web ou como uma demonstração de como criar um site simples sem depender de tecnologias mais avançadas.
+Site utilizado como exemplo no curso de JavaScript do Senai, com intuito de interagir com o HTML.
 
 ## Estrutura do Projeto
 
